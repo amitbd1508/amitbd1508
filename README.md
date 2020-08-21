@@ -99,7 +99,7 @@
 
 </details>
 
-[website]: https://amitbd1508.com
+[website]: https://amitghosh.me
 [twitter]: https://twitter.com/amitbd1508
 [youtube]: https://youtube.com/amitbd1508
 [instagram]: https://instagram.com/amitbd1508
