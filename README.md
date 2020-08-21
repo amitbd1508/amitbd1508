@@ -52,6 +52,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Polaroid Camera](https://www.youtube.com/watch?v=MOHHuvUq03g)
 - [Math Quiz](https://www.youtube.com/watch?v=zcpa8EsxZj4)
 - [Cleaner and Booster](https://www.youtube.com/watch?v=GasaBy8osF8)
@@ -94,9 +95,10 @@
 <details>
   <summary>Github Stats</summary>
 
-  <img align="left" alt="amitbd1508's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amitbd1508&show_icons=true&hide_border=true" />
-
 </details>
+
+<summary>Github Stats</summary>
+<img align="left" alt="amitbd1508's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amitbd1508&show_icons=true&hide_border=true" />
 
 [website]: https://amitghosh.me
 [twitter]: https://twitter.com/amitbd1508
