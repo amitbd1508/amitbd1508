@@ -66,7 +66,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Tic Tac Toe](https://dev.to/amitbd1508/tic-tac-toe-4b6l)
 <!-- BLOG-POST-LIST:END -->
 
