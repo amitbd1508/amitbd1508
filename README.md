@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [amitbd1508][website] 👋
+### Hi there, I'm Amit - aka [amitbd1508][website] 👋
 
 [![Website](https://www.jeeonconnect.com)](https://jeeonconnect.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/amitbd1508?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famitbd1508&screen_name=amitbd1508)
