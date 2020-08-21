@@ -52,7 +52,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Polaroid Camera](https://www.youtube.com/watch?v=MOHHuvUq03g)
 - [Math Quiz](https://www.youtube.com/watch?v=zcpa8EsxZj4)
 - [Cleaner and Booster](https://www.youtube.com/watch?v=GasaBy8osF8)
