@@ -52,7 +52,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Polaroid Camera](https://www.youtube.com/watch?v=MOHHuvUq03g)
 - [Math Quiz](https://www.youtube.com/watch?v=zcpa8EsxZj4)
 - [Cleaner and Booster](https://www.youtube.com/watch?v=GasaBy8osF8)
@@ -67,12 +66,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Microinteractions: Password Validation Animation](https://dev.to/amitbd1508/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/amitbd1508/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/amitbd1508/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/amitbd1508/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/amitbd1508/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Tic Tac Toe](https://dev.to/amitbd1508/tic-tac-toe-4b6l)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://amitbd1508.com)
