@@ -82,6 +82,8 @@
 <summary>Github Stats</summary>
 <img align="left" alt="amitbd1508's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amitbd1508&show_icons=true&hide_border=true" />
 
+---
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
