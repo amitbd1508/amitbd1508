@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Localize angular app in different language using ngx-translate(easy way)](https://www.youtube.com/watch?v=Wz-8vlF8Q08)
 - [Ultra File Share](https://www.youtube.com/watch?v=Lix0FhivexQ)
 - [Polaroid Camera](https://www.youtube.com/watch?v=MOHHuvUq03g)
 - [Math Quiz](https://www.youtube.com/watch?v=zcpa8EsxZj4)
 - [Cleaner and Booster](https://www.youtube.com/watch?v=GasaBy8osF8)
-- [QR Scanner and Generator - Free QR and Bar code Scanner and Generator](https://www.youtube.com/watch?v=ze_PHtDtFfI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
