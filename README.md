@@ -82,11 +82,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1109](https://github.com//firebase/firebase-tools/issues/1109) in [firebase/firebase-tools](https://github.com//firebase/firebase-tools)
-2. ❌ Closed PR [#24](https://github.com//nuhil/bangladesh-geocode/pull/24) in [nuhil/bangladesh-geocode](https://github.com//nuhil/bangladesh-geocode)
-3. 💪 Opened PR [#24](https://github.com//nuhil/bangladesh-geocode/pull/24) in [nuhil/bangladesh-geocode](https://github.com//nuhil/bangladesh-geocode)
-4. 🎉 Merged PR [#1](https://github.com//amitbd1508/bangladesh-geocode/pull/1) in [amitbd1508/bangladesh-geocode](https://github.com//amitbd1508/bangladesh-geocode)
-5. 💪 Opened PR [#1](https://github.com//amitbd1508/bangladesh-geocode/pull/1) in [amitbd1508/bangladesh-geocode](https://github.com//amitbd1508/bangladesh-geocode)
+1. 🗣 Commented on [#1109](https://github.com/firebase/firebase-tools/issues/1109) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
+2. ❌ Closed PR [#24](https://github.com/nuhil/bangladesh-geocode/pull/24) in [nuhil/bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode)
+3. 💪 Opened PR [#24](https://github.com/nuhil/bangladesh-geocode/pull/24) in [nuhil/bangladesh-geocode](https://github.com/nuhil/bangladesh-geocode)
+4. 🎉 Merged PR [#1](https://github.com/amitbd1508/bangladesh-geocode/pull/1) in [amitbd1508/bangladesh-geocode](https://github.com/amitbd1508/bangladesh-geocode)
+5. 💪 Opened PR [#1](https://github.com/amitbd1508/bangladesh-geocode/pull/1) in [amitbd1508/bangladesh-geocode](https://github.com/amitbd1508/bangladesh-geocode)
 <!--END_SECTION:activity-->
 
 </details>
