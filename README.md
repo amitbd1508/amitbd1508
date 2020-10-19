@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tensymp 2020 Presentation](https://www.youtube.com/watch?v=c9GS4xaFM7k)
 - [Demo of Tensorflow Pose Estimation (tf-pose-estimation)](https://www.youtube.com/watch?v=6JJ5_Yev-8M)
 - [Localize angular app in different language using ngx-translate(easy way)](https://www.youtube.com/watch?v=Wz-8vlF8Q08)
 - [Ultra File Share](https://www.youtube.com/watch?v=Lix0FhivexQ)
 - [Polaroid Camera](https://www.youtube.com/watch?v=MOHHuvUq03g)
-- [Math Quiz](https://www.youtube.com/watch?v=zcpa8EsxZj4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
