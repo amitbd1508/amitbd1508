@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Super hero | UIU | Amit Ghosh | Rafid Asrar | Sheen Elahi | Drama Competition](https://www.youtube.com/watch?v=YxfyitM2tjU)
 - [Mars rover hand test (uncut)](https://www.youtube.com/watch?v=Em-Iny4XnUY)
 - [অন্যরকম ভিডিও প্রতিযোগিতায় অংশগ্রহণের ফর্ম (jeeon)](https://www.youtube.com/watch?v=M-t1F1tl3Jw)
 - [Tensymp 2020 Presentation](https://www.youtube.com/watch?v=c9GS4xaFM7k)
 - [Demo of Tensorflow Pose Estimation (tf-pose-estimation)](https://www.youtube.com/watch?v=6JJ5_Yev-8M)
-- [Localize angular app in different language using ngx-translate(easy way)](https://www.youtube.com/watch?v=Wz-8vlF8Q08)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
