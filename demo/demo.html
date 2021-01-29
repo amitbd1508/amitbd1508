@@ -1,0 +1,128 @@
+<html>
+	<head>
+		<title>Add text plus fiver client demo </title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<style></style>
+
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+		<script src="colorpicker/spectrum.js"></script>
+		<script type="text/javascript" src="../dist/jquery.memegenerator.min.js"></script>
+<!-- 		<script type="text/javascript" src="../i18n/jquery.memegenerator.pl.js"></script> -->
+
+		<link rel="stylesheet" type="text/css" href="../dist/jquery.memegenerator.min.css">
+		<link rel="stylesheet" type="text/css" href="colorpicker/spectrum.css">
+		<link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+		<style>
+		h2 {
+			display: block;
+			text-align: center;
+		}
+
+		.example {
+			margin: 0 0 10% 0;
+		}
+
+		.bootstrap {
+			width: 600px;
+			margin-right: auto;
+			margin-left: auto;
+		}
+
+		.save button {
+			display: block;
+			width: 100%;
+			margin-bottom: 15px;
+			font-size: 24px;
+		}
+
+		#preview {
+			min-height: 200px;
+			background-color: #EFEFEF;
+            font-family: monospace;
+            overflow-y: auto;
+		}
+		#preview img {
+			max-width: 100%;
+		}
+		</style>
+	</head>
+
+	<body>
+
+		<div class="example save">
+			<h2>Add Text Plus(demo by amit)</h2>
+
+
+      <input type="file" onchange="previewFile()"><br>
+      <img src="images/1.png" id="example-save"  alt="Image preview...">
+
+			<div id="toolbar"></div>
+
+			<div class="container">
+				<div class="row">
+          <button class="btn btn-danger" id="download">Download</button>
+
+        </div>
+			</div>
+		</div>
+
+		<script>
+
+      function previewFile() {
+        const preview = document.querySelector('img');
+        const file = document.querySelector('input[type=file]').files[0];
+        const reader = new FileReader();
+
+        reader.addEventListener("load", function () {
+          // convert image file to base64 string
+          preview.src = reader.result;
+        }, false);
+
+        if (file) {
+          reader.readAsDataURL(file);
+        }
+      }
+
+      $(".example.default img").memeGenerator({});
+
+		$(".example.bootstrap img").memeGenerator({
+			useBootstrap: true
+		});
+
+		$(".example.horizontal img").memeGenerator({
+			useBootstrap: true,
+			layout: "horizontal",
+			previewMode: "css",
+			defaultTextStyle: {
+				font: "'Comic Sans', Arial",
+				lineHeight: 2
+			},
+			captions: [
+				"PREDEFINED text on top"
+			]
+		});
+
+
+		// Example with saving
+		$("#example-save").memeGenerator({
+			useBootstrap: true
+		});
+
+
+		$("#download").click(function(e){
+			e.preventDefault();
+
+			$("#example-save").memeGenerator("download");
+		});
+
+        $("#serialize").click(function(e){
+            $("#preview").html($("#example-save").memeGenerator("serialize"));
+        });
+
+		//
+		</script>
+	</body>
+</html>
