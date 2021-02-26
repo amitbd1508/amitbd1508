@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Srobon Alo](https://www.youtube.com/watch?v=AF-IL6dQW3g)
 - [Elon Musk talk about Computer Vision and Deep Learning at Ted](https://www.youtube.com/watch?v=yPLvTzm0olI)
 - [Super hero | UIU | Amit Ghosh | Rafid Asrar | Sheen Elahi | Drama Competition](https://www.youtube.com/watch?v=YxfyitM2tjU)
 - [Mars rover hand test (uncut)](https://www.youtube.com/watch?v=Em-Iny4XnUY)
 - [অন্যরকম ভিডিও প্রতিযোগিতায় অংশগ্রহণের ফর্ম (jeeon)](https://www.youtube.com/watch?v=M-t1F1tl3Jw)
-- [Tensymp 2020 Presentation](https://www.youtube.com/watch?v=c9GS4xaFM7k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
