@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to add Localizing your angular application](https://www.youtube.com/watch?v=fvAANMB-PDw)
 - [Bangladeshi vehicle demo video (27 no. bridge)](https://www.youtube.com/watch?v=JDBwrss0PVo)
 - [sound monitoring application using c# win form application and  Arduino](https://www.youtube.com/watch?v=GkZdMRi2VRI)
 - [CoC music](https://www.youtube.com/watch?v=8NLgaK1ANaI)
 - [IEEE Tensymp 2020 Presentation video(Assistive Technology for Visually Impaired)](https://www.youtube.com/watch?v=Djttq8a-keg)
-- [Parking Solution using computer vision and Deep learning](https://www.youtube.com/watch?v=kRtBXS7EVV0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
