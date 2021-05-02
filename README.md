@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mars rover driving test](https://www.youtube.com/watch?v=j7mH6Xr3Vm4)
+- [Bracathon 2017](https://www.youtube.com/watch?v=UIMGJc2zV5M)
 - [How to add Localizing your angular application](https://www.youtube.com/watch?v=fvAANMB-PDw)
 - [Bangladeshi vehicle demo video (27 no. bridge)](https://www.youtube.com/watch?v=JDBwrss0PVo)
 - [sound monitoring application using c# win form application and  Arduino](https://www.youtube.com/watch?v=GkZdMRi2VRI)
-- [CoC music](https://www.youtube.com/watch?v=8NLgaK1ANaI)
-- [IEEE Tensymp 2020 Presentation video(Assistive Technology for Visually Impaired)](https://www.youtube.com/watch?v=Djttq8a-keg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
