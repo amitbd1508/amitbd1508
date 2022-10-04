@@ -5,6 +5,7 @@
 
 ## I'm a Developer, Student and Researcher!
 
+- 👯 I’m doing my masters in computer science and engineering 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other engineers
 - 🥅 2020 Goals: Contribute more to Open Source projects
