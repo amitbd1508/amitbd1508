@@ -52,11 +52,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [sandakphu](https://www.youtube.com/watch?v=gebKlgwp0J0)
-- [Test flight in IIT KANPUR hall](https://www.youtube.com/watch?v=NnsOO5M8QGE)
-- [Parking detection using Arduino](https://www.youtube.com/watch?v=CpnaCffkn1U)
-- [India Bangladesh border](https://www.youtube.com/watch?v=yCaaT4HDHmE)
-- [Mars rover driving test](https://www.youtube.com/watch?v=j7mH6Xr3Vm4)
+- [Spring boot microservices | Kubernetes | Angular | Docker | Skaffold | Google Cloud](https://www.youtube.com/watch?v=ezkIrqi4KJw)
+- [Spring boot services deploy in kubernetes | Kubernetes | Spring Boot | minikube](https://www.youtube.com/watch?v=oyJK7mQbVD0)
+- [August 31, 2022](https://www.youtube.com/watch?v=ucFi2Eh8c-k)
+- [August 19, 2022](https://www.youtube.com/watch?v=3vFE9i61qqA)
+- [August 19, 2022](https://www.youtube.com/watch?v=ggfi8wcu3ac)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
