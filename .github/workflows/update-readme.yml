@@ -1,18 +1,78 @@
-name: GitHub - Activity - Readme
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@amitbd1508 
+Readme-Workflows
+/
+recent-activity
+Public
+Code
+Issues
+1
+Pull requests
+4
+Discussions
+Actions
+Projects
+1
+Wiki
+Security
+Insights
+recent-activity/.github/workflows/update-readme.yml
+@dependabot
+dependabot Github Actions(deps): Bump lowlighter/metrics from 3.27 to 3.28
+…
+Latest commit c6868eb 24 days ago
+ History
+ 3 contributors
+@Andre601@dependabot@lowlighter
+ 44 lines (39 sloc)  1.07 KB
+
+name: 'Update README'
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: '0 */24 * * *'
   workflow_dispatch:
+  #push:
+  #  branches:
+  #    - main
 
 jobs:
-  build:
+  recent-activity:
+    name: 'Update README with latest activity'
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      - name: Recent GitHub Activity - Profile Readme
-        uses: Readme-Workflows/recent-activity@v2.4.0
-
+      - name: 'Checkout Repository'
+        uses: actions/Checkout@v3
+      - name: 'Update README.md from TEMPLATE.md'
+        uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          CONFIG_FILE: 'sample.yml'
+  metrics:
+    name: 'Update SVGs for Readme stats'
+    runs-on: ubuntu-latest
+    needs: recent-activity
+    steps:
+      - uses: lowlighter/metrics@v3.28
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Readme-Workflows
+          repo: recent-activity
+          template: markdown
+          filename: README.md
+          markdown: TEMPLATE.md
+          markdown_cache: '.github/svg_cache'
+          
+          base: ""
+          
+          config_octicon: yes
+          
+          plugin_stargazers: yes
+          plugin_contributors: yes
