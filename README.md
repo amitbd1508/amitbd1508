@@ -6,10 +6,9 @@
 ## I'm a Developer, Student and Researcher!
 
 - 👯 I’m doing my masters in computer science and engineering 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning microservice based architecture 🤣
 - 👯 I’m looking to collaborate with other engineers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Spotify Playing 🎧
 
