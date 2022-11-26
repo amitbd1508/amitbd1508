@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [New York](https://www.youtube.com/watch?v=rh1LUjQUmt8)
 - [Spring boot microservices | Kubernetes | Angular | Docker | Skaffold | Google Cloud](https://www.youtube.com/watch?v=ezkIrqi4KJw)
 - [Spring boot services deploy in kubernetes | Kubernetes | Spring Boot | minikube](https://www.youtube.com/watch?v=oyJK7mQbVD0)
 - [August 31, 2022](https://www.youtube.com/watch?v=ucFi2Eh8c-k)
 - [August 19, 2022](https://www.youtube.com/watch?v=3vFE9i61qqA)
-- [August 19, 2022](https://www.youtube.com/watch?v=ggfi8wcu3ac)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
