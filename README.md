@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Gardening Log App in android MVVM | Hilt | Room | View Model | LiveData | Retrofit | coroutine](https://www.youtube.com/watch?v=HMoG3nCMTTA)
 - [Mobile application development assignment 2](https://www.youtube.com/watch?v=4tiUI7aaz7A)
 - [October 26, 2023](https://www.youtube.com/watch?v=WZheBjFYmZA)
 - [February 15, 2023](https://www.youtube.com/watch?v=adUZBX-_P34)
 - [February 9, 2023](https://www.youtube.com/watch?v=4-SLyFeHFXE)
-- [January 12, 2023](https://www.youtube.com/watch?v=ICOcH0kRlSs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
