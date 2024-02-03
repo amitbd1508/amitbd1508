@@ -1,6 +1,6 @@
 ### Hi there, I'm Amit - aka [amitbd1508][website] 👋
 
-[![Website](https://img.shields.io/website?label=amitghosh.me&style=for-the-badge&url=https%3A%2F%2Fwww.amitghosh.me)](https://www.ghosh-amit.com)
+[![Website](https://img.shields.io/website?label=ghosh-amit.com&style=for-the-badge&url=https%3A%2F%2Fwww.amitghosh.me)](https://www.ghosh-amit.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/amitbd1508?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famitbd1508&screen_name=amitbd1508)
 
 ## I'm a Developer, Student and Researcher!
