@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [September 25, 2024](https://www.youtube.com/watch?v=CnWKUuzNAXs)
+- [September 25, 2024](https://www.youtube.com/watch?v=8R8WynFdWJ4)
+- [September 25, 2024](https://www.youtube.com/watch?v=daHclAJ__5c)
+- [September 25, 2024](https://www.youtube.com/watch?v=r4Z3BuIvzJQ)
 - [docker and firebase](https://www.youtube.com/watch?v=cHojkgzx2Q8)
-- [Gardening Log App in android MVVM | Hilt | Room | View Model | LiveData | Retrofit | coroutine](https://www.youtube.com/watch?v=HMoG3nCMTTA)
-- [Mobile application development assignment 2](https://www.youtube.com/watch?v=4tiUI7aaz7A)
-- [October 26, 2023](https://www.youtube.com/watch?v=WZheBjFYmZA)
-- [February 15, 2023](https://www.youtube.com/watch?v=adUZBX-_P34)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
