@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [California Tour 2025](https://www.youtube.com/watch?v=LMpWHKB-zc4)
 - [September 25, 2024](https://www.youtube.com/watch?v=CnWKUuzNAXs)
 - [September 25, 2024](https://www.youtube.com/watch?v=8R8WynFdWJ4)
 - [September 25, 2024](https://www.youtube.com/watch?v=daHclAJ__5c)
 - [September 25, 2024](https://www.youtube.com/watch?v=r4Z3BuIvzJQ)
-- [docker and firebase](https://www.youtube.com/watch?v=cHojkgzx2Q8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
