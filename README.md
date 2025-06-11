@@ -54,8 +54,8 @@
 - [Rockwell drone shot](https://www.youtube.com/watch?v=H0Eed0BF5tU)
 - [Rockwell drone shot](https://www.youtube.com/watch?v=TnZUTkTZb4Y)
 - [California Tour 2025](https://www.youtube.com/watch?v=LMpWHKB-zc4)
-- [September 25, 2024](https://www.youtube.com/watch?v=CnWKUuzNAXs)
-- [September 25, 2024](https://www.youtube.com/watch?v=8R8WynFdWJ4)
+- [September 25, 2024](https://www.youtube.com/shorts/CnWKUuzNAXs)
+- [September 25, 2024](https://www.youtube.com/shorts/8R8WynFdWJ4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
