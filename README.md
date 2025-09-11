@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Los Angeles](https://www.youtube.com/shorts/2FxxrrSy5pA)
 - [September 7, 2025](https://www.youtube.com/shorts/f_4xVXcpQBk)
 - [Rockwell drone shot](https://www.youtube.com/watch?v=H0Eed0BF5tU)
 - [Rockwell drone shot](https://www.youtube.com/watch?v=TnZUTkTZb4Y)
 - [California Tour 2025](https://www.youtube.com/watch?v=LMpWHKB-zc4)
-- [September 25, 2024](https://www.youtube.com/shorts/CnWKUuzNAXs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
