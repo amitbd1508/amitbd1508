@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [demo](https://www.youtube.com/watch?v=QGhPa8AVwX4)
 - [#Delilah](https://www.youtube.com/shorts/CKe1Da4Wquk)
 - [June 21, 2026](https://www.youtube.com/shorts/RbeH9HKm_FQ)
 - [June 21, 2026](https://www.youtube.com/shorts/HqpCa4QO0t8)
 - [June 21, 2026](https://www.youtube.com/shorts/WAlZhQJKrFE)
-- [Los Angeles](https://www.youtube.com/shorts/2FxxrrSy5pA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/amitbd1508)
